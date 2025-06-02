@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-jose
+pandas
+gspread
+google-auth
+streamlit
+requests
