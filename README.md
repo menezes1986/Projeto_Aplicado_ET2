@@ -14,3 +14,5 @@ A aplicação principal é para tratamentos de planilhas via google sheets com c
 # Serviços de conexão e autorização d API Google Sheets
 As bibliotecas Gspread e Oath2 servem para se conectar e fazer requisições as contas Google por meio de API, a API da aplicação envia uma requisição do tipo GET para APi do google que por sua vez faz envia uma resposta para aplicação, para validar a autenticação de credenciais arquivos.
 
+# Frontend
+Frontend desenvolvido em streamlit um framework Python, que ja e nativamente responsivo, dentro da aplicação o front e responsavel pelas requisições dos backend atraves da biblioteca reponse, a imagem que aparce na pagina é do parceiro que colaborou no desenvolvimento do projeto.
